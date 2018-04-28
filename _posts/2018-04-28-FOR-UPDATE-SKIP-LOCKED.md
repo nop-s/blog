@@ -138,14 +138,14 @@ One potential soluton to these problem is to hold the transaction open for the d
 Of course, as we now consider these cases we enter into depths of why you should use a specific tool for the job were someone else has already considered these details for you…
 
 
-[^1]: https://dev.mysql.com/doc/refman/8.0/en/mysql-nutshell.html 
+[^1]: [https://dev.mysql.com/doc/refman/8.0/en/mysql-nutshell.html](https://dev.mysql.com/doc/refman/8.0/en/mysql-nutshell.html)
 
-[^2]: https://jira.mariadb.org/browse/MDEV-13115
+[^2]: [https://jira.mariadb.org/browse/MDEV-13115](https://jira.mariadb.org/browse/MDEV-13115)
 
-[^3]: https://www.postgresql.org/docs/10/static/sql-select.html#SQL-FOR-UPDATE-SHARE
+[^3]: [https://www.postgresql.org/docs/10/static/sql-select.html#SQL-FOR-UPDATE-SHARE](https://www.postgresql.org/docs/10/static/sql-select.html#SQL-FOR-UPDATE-SHARE)
 
-[^4]: https://wiki.postgresql.org/wiki/PGQ_Tutorial
+[^4]: [https://wiki.postgresql.org/wiki/PGQ_Tutorial](https://wiki.postgresql.org/wiki/PGQ_Tutorial)
 
-[^5]: https://en.wikipedia.org/wiki/Idempotence
+[^5]: [https://en.wikipedia.org/wiki/Idempotence](https://en.wikipedia.org/wiki/Idempotence)
 
-[^6]: https://www.postgresql.org/docs/9.1/static/functions-datetime.html
+[^6]: [https://www.postgresql.org/docs/9.1/static/functions-datetime.html](https://www.postgresql.org/docs/9.1/static/functions-datetime.html)
