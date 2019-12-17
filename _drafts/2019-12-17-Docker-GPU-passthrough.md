@@ -13,3 +13,5 @@ Or in easy cut and paste format:
 ```
 
 To check if the GPU is being used in the container, you can use `nvidia-smi dmon`, you should see activity scroll by on use.
+
+This will also make hardware transcoding in Plex work.
