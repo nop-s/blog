@@ -17,6 +17,6 @@ To check if the GPU is being used in the container, you can use `nvidia-smi dmon
 This will also make hardware transcoding in Plex work.
 
 Reference URLs:
-1. https://github.com/NVIDIA/nvidia-container-runtime
-2. https://github.com/NVIDIA/nvidia-docker
-3. https://developer.nvidia.com/video-encode-decode-gpu-support-matrix
+1. <https://github.com/NVIDIA/nvidia-container-runtime>
+2. <https://github.com/NVIDIA/nvidia-docker>
+3. <https://developer.nvidia.com/video-encode-decode-gpu-support-matrix>
