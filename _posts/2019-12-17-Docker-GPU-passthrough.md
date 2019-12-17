@@ -1,6 +1,6 @@
 # Docker and NVIDIA GPU Passthrough
 
-The release of Docker 19.03+ has builtin support for GPU passthrough with the `--gpus` directive. This change deprecates some packaging that NVIDIA had to enable pass through for their GPUs and makes the entire process easier. However there are still a couple of gotchas. The "general" fix to enable access to the GPU for all capabilities is adding the following environment variables to the docker run/launch:
+The release of Docker 19.03+ has builtin support for GPU passthrough with the `--gpus` directive. This change deprecates some packaging that NVIDIA had to enable passthrough for their GPUs and makes the entire process easier to use. However there are still a couple of gotchas. The "general" fix to enable access to the GPU for all capabilities is adding the following environment variables to the docker run/launch:
 1. NVIDIA_DRIVER_CAPABILITIES=all
 2. NVIDIA_VISIBLE_DEVICES=all
 3. gpus=all
